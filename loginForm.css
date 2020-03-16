@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+}
+.login-form{
+width: 500px;
+margin: 0 auto
+}
+.btn-login{
+    border-radius: 25px;
+}
+.form-group{
+border-top: 0;
+border-right: 0;
+border-left: 0;
+height: 50px
+}
